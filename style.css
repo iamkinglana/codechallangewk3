@@ -107,7 +107,7 @@
   }
   .wrapper .main_content .info{
     margin: 20px;
-    color: #C44900;
+    color: #9cae18;
     line-height: 25px;
   }
   .wrapper .main_content .info div{
@@ -124,7 +124,7 @@
     .card {
       width: calc(21.33% - 10px);
       margin-bottom: 20px;
-      box-shadow: 1 6px 10px rgba(218, 135, 243, 0.76);
+      box-shadow: 1 6px 10px rgba(23, 76, 108, 0.689);
       transition: box-shadow 0.3s ease-in-out;
       background-color: #200320;
     }
@@ -157,7 +157,7 @@
     .card .tickets {
     font-size: 14px;
     font-weight: bold;
-    color: #C44900;
+    color: #72c400;
     margin-top: 5px;
     }
     .btn {
@@ -171,5 +171,5 @@
     }
     .btn:hover {
       background-color: #0C0414;
-      border-color: #470A96;
+      border-color: #a42c64;
     }
